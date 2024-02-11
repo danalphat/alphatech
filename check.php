@@ -13,4 +13,3 @@ fwrite($handle,"\n");
 fclose($handle);
 exit;
 ?>
-C
